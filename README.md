@@ -4,3 +4,4 @@
 2) FFPROBE
 3) Mediainfo
 4) AWS CLI
+5) Python & Python PIP
